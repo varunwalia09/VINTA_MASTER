@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+git/** @type {import('next').NextConfig} */
 const path = require('path');
 
 const nextConfig = {
