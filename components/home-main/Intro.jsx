@@ -15,14 +15,13 @@ function Intro() {
               <div className="col-md-6">
                 <div className="text">
                   <h3 className="mb-30">
-                    We believe in the power of{' '}
-                    <span className="fw-300">individual</span>{' '}
-                    <span className="fw-300">contribution.</span>
+                    We craft iconic digital experiences for:{' '}
+                    <span className="fw-300">Hotshot brands making headlines</span>{' '}
+                    <span className="fw-300">Newbie startups with fire in their belly</span>
                   </h3>
                   <p>
-                    We back the founders of new forms of network, digital
-                    organisations that harness the talents of individuals for
-                    the benefit of the collective.
+                  Whether you're building your story or rebranding 
+                  your legacy—we’ve got the creative fuel to make it unforgettable.
                   </p>
 
                   <a href="/page-about" className="underline main-color mt-40">
@@ -53,7 +52,7 @@ function Intro() {
                 <div className="col-md-6">
                   <div className="item bord-thin-top pt-30 d-flex align-items-end mt-20">
                     <div>
-                      <h3 className="fw-300 mb-10">6700</h3>
+                      <h3 className="fw-300 mb-10">7K +</h3>
                       <h6 className="p-color sub-title">Projects Completed</h6>
                     </div>
                     <div className="ml-auto">

@@ -11,7 +11,7 @@ function Intro() {
                 <div className="col-6">
                   <img src="/assets/imgs/intro/i1.jpg" alt="" />
                   <div className="img-icon">
-                    <img src="/assets/imgs/arw0.png" alt="" />
+                    {/* <img src="/assets/imgs/arw0.png" alt="" /> */}
                   </div>
                 </div>
                 <div className="col-6 mt-40">
@@ -23,10 +23,10 @@ function Intro() {
           <div className="col-lg-6 valign">
             <div className="cont">
               <h3 className="mb-30">
-                Vintaverse is a full-service{' '}
-                <span className="fw-200">Vintaverse </span> creating
-                beautiful <span className="fw-200">digital experiences</span> &
-                products.
+              Vintaverse is a Full-Stack design lab{' '}
+                <span className="fw-200">Turning bold </span> ideas
+                into <span className="fw-200">beautiful digital</span> realities--experiences that don't just look
+                good.they feel unforgettable
               </h3>
               <p>
                 Our design services starts and ends with a best-in-class

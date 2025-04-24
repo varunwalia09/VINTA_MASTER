@@ -41,14 +41,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                We design clean, intuitive interfaces that enhance user experience, 
+                improve engagement, and bring your digital vision to life effortlessly.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/1.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/ui.jpg" alt="" />
                 <a href="/page-services-details">
                   <span className="ti-arrow-top-right"></span>
                 </a>
@@ -72,14 +72,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                We craft clear, compelling brand identities that build trust, spark emotion, 
+                and align every touchpoint with your business vision.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/2.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/mybrand.jpg" alt="" />
                 <a href="/page-services-details">
                   <span className="ti-arrow-top-right"></span>
                 </a>
@@ -95,7 +95,7 @@ function Services() {
                 <div>
                   <span className="sub-title main-color mb-10">Web Design</span>
                   <h2>
-                    SEO / <span className="fw-200">Marketing</span>
+                    SEO /<span className="fw-200">Marketing</span>
                   </h2>
                 </div>
               </div>
@@ -103,14 +103,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                We create smart, data-driven strategies that boost visibility, 
+                drive traffic, and turn curious clicks into loyal customers effortlessly.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/3.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/seo.jpg" alt="" />
                 <a href="/page-services-details">
                   <span className="ti-arrow-top-right"></span>
                 </a>

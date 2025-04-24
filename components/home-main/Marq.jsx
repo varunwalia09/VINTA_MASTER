@@ -2,11 +2,11 @@ import React from 'react';
 
 function Marq() {
   const marquee = [
-    'Web Desgin',
-    'Web Developement',
+    'Web Design',
+    'Web Development',
     'Seo eCommerce',
-    'Digital Marckting',
-    'UI/UX Desgin',
+    'Digital Marketing',
+    'UI/UX Design',
   ];
   return (
     <section className="opacity-7">

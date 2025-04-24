@@ -38,12 +38,12 @@ function Header() {
                 <div>
                   <div className="text ml-30">
                     <p>
-                      We back the founders of new forms of network, digital
-                      organisations that harness the{' '}
-                      <span className="text-light fw-600">
+                    We empower founders to build digital communities and platforms 
+                    that unite individual creativity for collective growth{' '}
+                    {/* <span className="text-light fw-600">
                         talents of individuals
                       </span>{' '}
-                      for the benefit of the collective.
+                      for the benefit of the collective. */}
                     </p>
                   </div>
                 </div>
@@ -59,7 +59,7 @@ function Header() {
           </div>
           <div className="col-lg-6 d-flex justify-content-end order-md-1">
             <div className="info">
-              <h2 className="mb-10">12k +</h2>
+              <h2 className="mb-10">7k +</h2>
               <h6>
                 Projects completed <br />
                 <span className="main-color">successfully</span>

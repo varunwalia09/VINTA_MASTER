@@ -40,7 +40,7 @@ function Portfolio() {
                 href="/portfolio-creative"
                 className="butn butn-sm butn-bord radius-30"
               >
-                <span>View All</span>
+                {/* <span>View All</span> */}
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>

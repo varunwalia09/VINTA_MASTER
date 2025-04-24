@@ -30,9 +30,9 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/3.png" alt="" />
               </div>
               <span className="mb-30 p-color">01 .</span>
-              <h6 className="mb-20">Digital Product Design</h6>
+              <h6 className="mb-20">Web Site Design </h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+              We design modern, responsive websites that bring your brand to life.
               </p>
             </div>
           </div>
@@ -44,7 +44,7 @@ function Feat() {
               <span className="mb-30 p-color">02 .</span>
               <h6 className="mb-20">Web Developments</h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+              We build scalable, secure websites with clean code and responsive layouts.
               </p>
             </div>
           </div>
@@ -54,9 +54,9 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/5.png" alt="" />
               </div>
               <span className="mb-30 p-color">03 .</span>
-              <h6 className="mb-20">Branding Design</h6>
+              <h6 className="mb-20">Mobile Design</h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+              We craft intuitive mobile designs for smooth and fast user experiences.
               </p>
             </div>
           </div>
@@ -66,9 +66,9 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/6.png" alt="" />
               </div>
               <span className="mb-30 p-color">04 .</span>
-              <h6 className="mb-20">UI/UX Web Design</h6>
+              <h6 className="mb-20">UI/UX Design</h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+              We create user-centric designs that are beautiful, functional, and seamless.
               </p>
             </div>
           </div>

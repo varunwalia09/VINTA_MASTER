@@ -1,26 +1,26 @@
 [
   {
-    "title": "Digital Product Design",
+    "title": "Web Site Design",
     "img": "/assets/imgs/serv-icons/3.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": " Your site is your digital home — we design it to be bold, welcoming, and unforgettable from first click to last.",
     "link": "/page-services-details"
   },
   {
     "title": "Web Developments",
     "img": "/assets/imgs/serv-icons/4.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Every line of code counts — we build fast, functional, and secure websites that perform flawlessly and reflect your brand.",
     "link": "/page-services-details"
   },
   {
-    "title": "Branding Design",
+    "title": "Mobile Design",
     "img": "/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Your app is your brand's pocket voice — we make it smooth, smart, and stunning with clean, user-focused design.",
     "link": "/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "UI/UX Design",
     "img": "/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+   "desc": " Great design isn't just seen — it's felt. We craft intuitive experiences that connect, guide, and leave a lasting impression.",
     "link": "/page-services-details"
   }
 ]

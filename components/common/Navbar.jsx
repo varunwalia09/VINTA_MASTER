@@ -141,8 +141,7 @@ function Navbar() {
               // onMouseMove={handleDropdownMouseMove}
               className="nav-item dropdown"
             >
-                       <a
-              
+              <a
               className="nav-link"
               role="button"
               onClick={() => handleScroll("mainHomePortfolio")}

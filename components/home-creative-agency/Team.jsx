@@ -36,7 +36,7 @@ function Team() {
                   <div className="social mt-20">
                     <div className="links">
                       <a href="#0">
-                        <i className="fab fa-facebook-f"></i>
+                      <i className="fab fa-behance"></i>
                       </a>
                       <a href="#0">
                         <i className="fab fa-behance"></i>

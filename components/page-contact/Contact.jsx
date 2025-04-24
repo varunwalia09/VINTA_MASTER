@@ -8,29 +8,49 @@ function Contact() {
           <div className="col-lg-4 valign">
             <div className="sec-head info-box full-width md-mb80">
               <div className="phone fz-30 fw-600 underline main-color">
-                <a href="tel:+917807338558">+917807338558</a>
+                <a href="tel:+919317867676">+91 9317867676</a>
               </div>
               <div className="morinfo mt-50 pb-30 bord-thin-bottom">
                 <h6 className="mb-15">Address</h6>
-                <p>416  Phase 5 Mohali,
-                Chandigarh.</p>
+                <p>E-55, Phase 8
+                  Industrial Area, Mohali</p>
               </div>
               <div className="morinfo mt-30 pb-30 bord-thin-bottom">
                 <h6 className="mb-15">Email</h6>
-                <p>Contact@vintaverse@gmail.com</p>
+                <p>Contact@vintaverse.com</p>
               </div>
 
               <div className="social-icon mt-50">
-                <a href="#0">
+                <a
+                  href="https://www.facebook.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover-anim"
+                >
                   <i className="fab fa-facebook-f"></i>
                 </a>
-                <a href="#0">
+                <a
+                  href="https://www.linkedin.com/company/vintaverse"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover-anim"
+                >
                   <i className="fab fa-dribbble"></i>
                 </a>
-                <a href="#0">
+                <a
+                  href="https://www.behance.net/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover-anim"
+                >
                   <i className="fab fa-behance"></i>
                 </a>
-                <a href="#0">
+                <a
+                  href="https://www.facebook.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover-anim"
+                >
                   <i className="fab fa-instagram"></i>
                 </a>
               </div>
