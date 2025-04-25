@@ -43,7 +43,7 @@ function Contact() {
                   rel="noopener noreferrer"
                   className="hover-anim"
                 >
-                  <i className="fab fa-behance"></i>
+                <i className="fab fa-behance"></i>
                 </a>
                 <a
                   href="https://www.instagram.com/vintaverse.ai/"
