@@ -52,18 +52,13 @@ function Portfolio() {
         <div className="row">
           <div className="col-lg-3 d-flex align-items-end">
             <div className="text pb-100">
-
               <ul>
-                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow' /> <p>Mails Manage</p></li>
-                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow' /> <p>Grocey App</p></li>
-                <li className='d-flex align-items-center gap-3 text-nowrap'><Image src={arrowIcon} alt='up-arrow' className='up-arrow' /> <p>Pick and Delivery app</p></li>
-                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow' /> <p>Dating App</p></li>
-                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow' /> <p>Fintech App</p></li>
+                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow'/><p>Mails Manage</p></li>
+                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow'/><p>Grocey App</p></li>
+                <li className='d-flex align-items-center gap-3 text-nowrap'><Image src={arrowIcon} alt='up-arrow' className='up-arrow'/><p>Pick and Delivery app</p></li>
+                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow'/><p>Dating App</p></li>
+                <li className='d-flex align-items-center gap-3'><Image src={arrowIcon} alt='up-arrow' className='up-arrow'/><p>Fintech App</p></li>
               </ul>
-              {/* <p>
-                We help our clients suceed by creating identities, digital
-                experiences, and printmaterials that communicate clearly
-              </p> */}
             </div>
           </div>
           <div className="col-lg-8">

@@ -40,10 +40,6 @@ function Header() {
                     <p>
                     We empower founders to build digital communities and platforms 
                     that unite individual creativity for collective growth{' '}
-                    {/* <span className="text-light fw-600">
-                        talents of individuals
-                      </span>{' '}
-                      for the benefit of the collective. */}
                     </p>
                   </div>
                 </div>

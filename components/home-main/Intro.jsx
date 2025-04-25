@@ -21,9 +21,8 @@ function Intro() {
                   </h3>
                   <p>
                   Whether you're building your story or rebranding 
-                  your legacy—we’ve got the creative fuel to make it unforgettable.
+                  your legacy—we've got the creative fuel to make it unforgettable.
                   </p>
-
                   <a href="/page-about" className="underline main-color mt-40">
                     <span className="text">
                       More About Us <i className="ti-arrow-top-right"></i>

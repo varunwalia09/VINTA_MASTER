@@ -1182,7 +1182,7 @@ figure {
 
 .progress-wrap svg.progress-circle path {
   stroke: #ccc;
-  strokewidth: 4;
+  stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-transition: all 400ms linear;
