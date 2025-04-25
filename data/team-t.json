@@ -1,32 +1,32 @@
 [
   {
     "img": "/assets/imgs/team/t1.png",
-    "name": "Robert De Niro",
-    "subName": "Web Developer"
+    "name": "Vinta Khaneja",
+    "subName": "Founder & CEO"
   },
   {
-    "img": "/assets/imgs/team/t2.png",
-    "name": "Brendan Fraser",
+    "img": "/assets/imgs/team/t7.jpg",
+    "name": "Diwakar Kalia",
+    "subName": "Senior Project Manager"
+  },
+  {
+    "img": "/assets/imgs/team/t8.jpg",
+    "name": "Leisha",
+    "subName": "WordPress Developer"
+  },
+  {
+    "img": "/assets/imgs/team/t6.jpg",
+    "name": "Reza Hashmi",
     "subName": "UI/UX Designer"
   },
   {
-    "img": "/assets/imgs/team/t3.png",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
-  },
-  {
-    "img": "/assets/imgs/team/t4.png",
-    "name": "Ahmed Khaled",
-    "subName": "SEO Marckting"
-  },
-  {
     "img": "/assets/imgs/team/t2.png",
-    "name": "Brendan Fraser",
-    "subName": "UI/UX Designer"
+    "name": "Varun Walia",
+    "subName": "Web Designer"
   },
   {
     "img": "/assets/imgs/team/t3.png",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "name": "Manoj Kumar",
+    "subName": "WordPress Developer"
   }
 ]
