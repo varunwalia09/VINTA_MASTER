@@ -10,7 +10,7 @@
     "subName": "Senior Project Manager"
   },
   {
-    "img": "/assets/imgs/team/t8.png",
+    "img": "/assets/imgs/team/t8.jpg",
     "name": "Leisha",
     "subName": "WordPress Developer"
   },
@@ -20,13 +20,13 @@
     "subName": "UI/UX Designer"
   },
   {
-    "img": "/assets/imgs/team/t2.png",
-    "name": "Varun Walia",
-    "subName": "Web Designer"
-  },
-  {
     "img": "/assets/imgs/team/t33.png",
     "name": "Manoj Kumar",
     "subName": "WordPress Developer"
+  },
+  {
+    "img": "/assets/imgs/team/t33.png",
+    "name": "Varun Walia",
+    "subName": "Web Designer"
   }
 ]
