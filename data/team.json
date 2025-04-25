@@ -1,17 +1,17 @@
 [
   {
     "img": "/assets/imgs/team/1.jpg",
-    "name": "Robert De Niro",
-    "subName": "Web Developer"
+    "name": "Leisha",
+    "subName": "WordPress Developer"
   },
   {
     "img": "/assets/imgs/team/2.jpg",
-    "name": "Brendan Fraser",
+    "name": "Raza Hashmi",
     "subName": "UI/UX Designer"
   },
   {
     "img": "/assets/imgs/team/3.jpg",
-    "name": "Ahmed Khaled",
+    "name": "Varun Walia",
     "subName": "Web Designer"
   }
 ]
