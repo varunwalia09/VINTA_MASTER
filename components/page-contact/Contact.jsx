@@ -38,7 +38,7 @@ function Contact() {
                   <i className="fab fa-dribbble"></i>
                 </a>
                 <a
-                  href="https://www.behance.net/"
+                  href="https://www.behance.net/contactvintave"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover-anim"
@@ -46,7 +46,7 @@ function Contact() {
                   <i className="fab fa-behance"></i>
                 </a>
                 <a
-                  href="https://www.facebook.com/"
+                  href="https://www.instagram.com/vintaverse.ai/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover-anim"

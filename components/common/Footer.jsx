@@ -80,7 +80,7 @@ function Footer() {
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
                   <a
-                    href="https://www.facebook.com/"
+                    href="https://www.behance.net/contactvintave"
                     target="_blank"
                     rel="noopener noreferrer">
                     <i className="fab fa-dribbble"></i>
@@ -96,7 +96,7 @@ function Footer() {
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
                   <a
-                    href="https://www.instagram.com/"
+                    href="https://www.instagram.com/vintaverse.ai/"
                     target="_blank"
                     rel="noopener noreferrer">
                     <i className="fab fa-instagram"></i>

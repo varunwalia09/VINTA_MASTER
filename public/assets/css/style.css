@@ -52,7 +52,7 @@ main {
 .row > * {
   padding-left: 15px;
   padding-right: 15px;
-  margin-top: 0;
+  margin-top: 58px; /* changes for my side */
 }
 
 .row.sm-marg {
