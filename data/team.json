@@ -1,17 +1,17 @@
 [
   {
-    "img": "/assets/imgs/team/1.jpg",
+    "img": "/assets/imgs/team/t1.1.png",
     "name": "Leisha",
     "subName": "WordPress Developer"
   },
   {
-    "img": "/assets/imgs/team/2.jpg",
-    "name": "Raza Hashmi",
-    "subName": "UI/UX Designer"
+    "img": "/assets/imgs/team/t2.2.png",
+    "name": "Manoj Kumar",
+    "subName": "WordPress Developer"
   },
   {
-    "img": "/assets/imgs/team/3.jpg",
-    "name": "Varun Walia",
-    "subName": "Web Designer"
+    "img": "/assets/imgs/team/t3.3.png",
+    "name": "Reza Hashmi",
+    "subName": "UI/UX  DESIGNER"
   }
 ]

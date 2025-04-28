@@ -8,7 +8,7 @@ function Portfolio() {
           <div className="col-lg-5">
             <div className="item mb-80 mt-40">
               <div className="img">
-                <img src="/assets/imgs/works/grid/19.png" alt="" style={{ border: '2px solid #D73B18', borderRadius: '20px' }} />
+                <img src="/assets/imgs/works/grid/1.1.png" alt="" />
               </div>
               <div className="cont d-flex align-items-end mt-30">
                 <div>
@@ -26,7 +26,7 @@ function Portfolio() {
           <div className="col-lg-5 offset-lg-1">
             <div className="item mb-80 mt-40">
               <div className="img">
-                <img src="/assets/imgs/works/grid/2.jpg" alt="" />
+                <img src="/assets/imgs/works/grid/2.2.png" alt="" />
               </div>
               <div className="cont d-flex align-items-end mt-30">
                 <div>
@@ -44,7 +44,7 @@ function Portfolio() {
           <div className="col-lg-8 offset-lg-2">
             <div className="item mb-80 mt-40">
               <div className="img">
-                <img src="/assets/imgs/works/grid/3.jpg" alt="" />
+                <img src="/assets/imgs/works/grid/3.3.png" alt="" />
               </div>
               <div className="cont d-flex align-items-end mt-30">
                 <div>
@@ -62,7 +62,7 @@ function Portfolio() {
           <div className="col-lg-5 d-flex align-items-end">
             <div className="item mb-80 mt-40">
               <div className="img">
-                <img src="/assets/imgs/works/grid/4.jpg" alt="" />
+                <img src="/assets/imgs/works/grid/5.5.png" alt="" />
               </div>
               <div className="cont d-flex align-items-end mt-30">
                 <div>
@@ -120,3 +120,6 @@ function Portfolio() {
 }
 
 export default Portfolio;
+
+
+// style={{ border: '2px solid #D73B18', borderRadius: '20px' }}
